@@ -1,0 +1,11 @@
+td {
+  transition: 0.2s ease;
+}
+td:hover {
+  filter: brightness(80%);
+  transition: .2s ease;
+}
+
+.cell-modal-footer {
+  justify-content: space-between !important;
+}
